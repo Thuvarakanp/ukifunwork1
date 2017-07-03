@@ -1,0 +1,10 @@
+body {
+	background: #FFF;
+	font-weight: normal;
+	position: relative;
+	font-size: 12px;
+	color: #333333;
+	font-family: 'Open Sans', sans-serif;
+	background: url(bg.jpg) center center fixed no-repeat;
+	background-size: cover;
+};
